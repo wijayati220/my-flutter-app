@@ -1,10 +1,10 @@
-# my_flutter_app
+# Applikasi-Pembayaran SPP
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Langkah langkah menginstal Applikasi-Pembayaran SPP 
 
 A few resources to get you started if this is your first Flutter project:
 
