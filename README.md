@@ -48,6 +48,6 @@ Menggunakan Android Studio
 
 
 
-
+Instal Applikasi:
 https://github.com/wijayati220
 
