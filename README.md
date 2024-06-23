@@ -47,24 +47,40 @@ Menggunakan Android Studio
 ![image](https://github.com/wijayati220/my-flutter-app/assets/172412195/ab8ab2c3-6c7b-4c22-bef9-166284fe2bcd)
 
 Langkah langkah menginstal Applikasi-Pembayaran SPP 
--Pastikan sebelumnya kamu telah mendownload dan menginstal applikasi android studio dan juga flutter
--klik icon code pada 
--selanjutnya klik download zip,seperti gambar di bawah ini
-![Screenshot 2024-06-23 104716](https://github.com/wijayati220/my-flutter-app/assets/172412195/7ab84845-9af2-481f-98dc-6f45f124f0bd)
--Setelah berhasil di download, buka file yang sudah di download
-![Screenshot 2024-06-23 104752](https://github.com/wijayati220/my-flutter-app/assets/172412195/76ba8845-bc8d-4b7c-8d3d-1e4ade48d2a6)
--Kemudian klik kanan pada file yang sudah di download/pilih Extract all
--Kemudian letakkan file di directory file
-![Screenshot 2024-06-23 104859](https://github.com/wijayati220/my-flutter-app/assets/172412195/e8046fb1-4f22-4988-95ec-040008ec2ebe)
+Berikut adalah langkah-langkah yang telah diperbaiki untuk menginstal Aplikasi Pembayaran SPP:
 
--Masukkan file pada local C,dan letakkan file  pada src
--Selanjutnya buka Visual Studio Code dan masukkan folder yang sudah di Extract tadi
--Setelah itu kita bisa mejalankan program dengan menggunakan emulator yang sudah di download terlebih dahulu pada applikasi android studio
-Maka tampilan akan muncul saat di run dengan emulator
-![1](https://github.com/wijayati220/my-flutter-app/assets/172412195/57f66db9-3e0d-40c6-bb13-98a34827eb18)
+1. **Pastikan Prasyarat Terpenuhi:**
+   - Pastikan kamu telah mengunduh dan menginstal Android Studio.
+   - Pastikan kamu juga telah mengunduh dan menginstal Flutter.
 
-Setelah itu tampilan login muncul
-![image](https://github.com/wijayati220/my-flutter-app/assets/172412195/f9051462-55ce-4a3e-9d76-bccc9bae62f8)
+2. **Mengunduh Kode Aplikasi:**
+   - Klik ikon kode pada repositori aplikasi.
+   - Selanjutnya, klik "Download ZIP", seperti pada gambar di bawah ini.
+     ![Screenshot 2024-06-23 104716](path/to/screenshot1.png)
+
+3. **Mengekstrak File ZIP:**
+   - Setelah berhasil diunduh, buka file ZIP yang sudah diunduh.
+     ![Screenshot 2024-06-23 104752](path/to/screenshot2.png)
+   - Klik kanan pada file ZIP dan pilih "Extract All".
+   - Letakkan file hasil ekstraksi di direktori yang diinginkan.
+     ![Screenshot 2024-06-23 104859](path/to/screenshot3.png)
+
+4. **Memindahkan File ke Direktori Lokal:**
+   - Masukkan file hasil ekstraksi ke dalam drive C:, dan letakkan di folder `src`.
+
+5. **Membuka Proyek di Visual Studio Code:**
+   - Buka Visual Studio Code.
+   - Masukkan folder yang sudah diekstrak tadi ke dalam Visual Studio Code.
+
+6. **Menjalankan Program:**
+   - Jalankan program menggunakan emulator yang sudah diunduh sebelumnya pada aplikasi Android Studio.
+   - Tampilan aplikasi akan muncul saat dijalankan dengan emulator.
+
+7. **Tampilan Login:**
+   - Setelah program dijalankan, tampilan login akan muncul seperti pada gambar berikut:
+     ![Login Screen](path/to/login-screen.png)
+
+Dengan mengikuti langkah-langkah di atas, kamu akan dapat menginstal dan menjalankan Aplikasi Pembayaran SPP dengan benar.
 
 
 Instal Applikasi:
