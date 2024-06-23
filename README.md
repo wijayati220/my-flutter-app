@@ -57,7 +57,16 @@ Langkah langkah menginstal Applikasi-Pembayaran SPP
 -Kemudian letakkan file di directory file
 ![Screenshot 2024-06-23 104859](https://github.com/wijayati220/my-flutter-app/assets/172412195/e8046fb1-4f22-4988-95ec-040008ec2ebe)
 
+-Selanjutnya buka Visual Studio Code dan masukkan folder yang sudah di Extract tadi
+-Setelah itu kita bisa mejalankan program dengan menggunakan emulator yang sudah di download terlebih dahulu pada applikasi android studio
+Maka tampilan akan muncul saat di run dengan emulator
+![1](https://github.com/wijayati220/my-flutter-app/assets/172412195/57f66db9-3e0d-40c6-bb13-98a34827eb18)
+
+Setelah itu tampilan login muncul
+![image](https://github.com/wijayati220/my-flutter-app/assets/172412195/f9051462-55ce-4a3e-9d76-bccc9bae62f8)
+
 
 Instal Applikasi:
 https://github.com/wijayati220
+
 
