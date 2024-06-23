@@ -56,14 +56,17 @@ Berikut adalah langkah-langkah yang telah diperbaiki untuk menginstal Aplikasi P
 2. **Mengunduh Kode Aplikasi:**
    - Klik ikon kode pada repositori aplikasi.
    - Selanjutnya, klik "Download ZIP", seperti pada gambar di bawah ini.
-     ![Screenshot 2024-06-23 104716](path/to/screenshot1.png)
+    ![Screenshot 2024-06-23 104716](https://github.com/wijayati220/my-flutter-app/assets/172412195/dc285f72-3c6e-4b2c-a477-85a894dd826e)
+
 
 3. **Mengekstrak File ZIP:**
    - Setelah berhasil diunduh, buka file ZIP yang sudah diunduh.
-     ![Screenshot 2024-06-23 104752](path/to/screenshot2.png)
+    ![Screenshot 2024-06-23 104752](https://github.com/wijayati220/my-flutter-app/assets/172412195/66615d1c-ef2b-40bd-9868-0bc08ae7e227)
+
    - Klik kanan pada file ZIP dan pilih "Extract All".
    - Letakkan file hasil ekstraksi di direktori yang diinginkan.
-     ![Screenshot 2024-06-23 104859](path/to/screenshot3.png)
+     ![Screenshot 2024-06-23 104859](https://github.com/wijayati220/my-flutter-app/assets/172412195/1a18898d-d59b-42cd-9f8a-7109d1166d17)
+
 
 4. **Memindahkan File ke Direktori Lokal:**
    - Masukkan file hasil ekstraksi ke dalam drive C:, dan letakkan di folder `src`.
@@ -78,7 +81,8 @@ Berikut adalah langkah-langkah yang telah diperbaiki untuk menginstal Aplikasi P
 
 7. **Tampilan Login:**
    - Setelah program dijalankan, tampilan login akan muncul seperti pada gambar berikut:
-     ![Login Screen](path/to/login-screen.png)
+    ![2](https://github.com/wijayati220/my-flutter-app/assets/172412195/e15885a8-af3b-4a73-9864-8ee00f5dcbe1)
+
 
 Dengan mengikuti langkah-langkah di atas, kamu akan dapat menginstal dan menjalankan Aplikasi Pembayaran SPP dengan benar.
 
