@@ -70,7 +70,7 @@ Berikut adalah langkah-langkah yang telah diperbaiki untuk menginstal Aplikasi P
 
 4. **Memindahkan File ke Direktori Lokal:**
    - Masukkan file hasil ekstraksi ke dalam drive C:, dan letakkan di folder `src`.
-   - setelah itu masukkan file sql nya
+   - setelah itu masukkan file sql nya di folder htdocs
    - ![Screenshot 2024-06-23 201205](https://github.com/wijayati220/my-flutter-app/assets/172412195/e6218357-e74f-478f-988f-5e77e4739e63)
 
 
