@@ -70,13 +70,21 @@ Berikut adalah langkah-langkah yang telah diperbaiki untuk menginstal Aplikasi P
 
 4. **Memindahkan File ke Direktori Lokal:**
    - Masukkan file hasil ekstraksi ke dalam drive C:, dan letakkan di folder `src`.
+   - setelah itu masukkan file sql nya
+   - ![Screenshot 2024-06-23 201205](https://github.com/wijayati220/my-flutter-app/assets/172412195/e6218357-e74f-478f-988f-5e77e4739e63)
+
+
 
 5. **Membuka Proyek di Visual Studio Code:**
    - Buka Visual Studio Code.
    - Masukkan folder yang sudah diekstrak tadi ke dalam Visual Studio Code.
+   - ![Screenshot 2024-06-23 200728](https://github.com/wijayati220/my-flutter-app/assets/172412195/cf4bcff2-ee1b-4e08-8023-82d602b907b8)
+
 
 6. **Menjalankan Program:**
    - Jalankan program menggunakan emulator yang sudah diunduh sebelumnya pada aplikasi Android Studio.
+   - ![Screenshot 2024-06-23 200933](https://github.com/wijayati220/my-flutter-app/assets/172412195/ffbcf640-03a1-4b55-bf0e-d0fe1168402e)
+
    - Tampilan aplikasi akan muncul saat dijalankan dengan emulator.
 
 7. **Tampilan Login:**
