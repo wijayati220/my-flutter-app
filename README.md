@@ -84,8 +84,11 @@ Berikut adalah langkah-langkah yang telah diperbaiki untuk menginstal Aplikasi P
 6. **Menjalankan Program:**
    - Jalankan program menggunakan emulator yang sudah diunduh sebelumnya pada aplikasi Android Studio.
    - ![Screenshot 2024-06-23 200933](https://github.com/wijayati220/my-flutter-app/assets/172412195/ffbcf640-03a1-4b55-bf0e-d0fe1168402e)
+   - ![Screenshot 2024-06-23 202306](https://github.com/wijayati220/my-flutter-app/assets/172412195/5a4cb22a-d42a-4722-8e3a-d8d4f7dcda08)
+
 
    - Tampilan aplikasi akan muncul saat dijalankan dengan emulator.
+    
 
 7. **Tampilan Login:**
    - Setelah program dijalankan, tampilan login akan muncul seperti pada gambar berikut:
